@@ -2,6 +2,20 @@
 
 ### Simulador de precificação para venda de veículo.
 
+_**O que foi feito:**_
+
+* Bootstrap:
+    - Incluído.
+
+
+* Página html:
+    - Feito.
+
+
+* Css:
+    - Feito.
+
+
 _**Problemas a serem resolvidos:**_ 
 
 
