@@ -5,7 +5,7 @@
 _**Problemas a serem resolvidos:**_ 
 
 
-* Integrar os dados da API dentro das seleções: 
+* Integrar os dados da API de acordo com as seleções: 
     - Marcas;
     - Modelos;
     - Anos.
