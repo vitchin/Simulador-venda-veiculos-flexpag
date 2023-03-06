@@ -13,7 +13,7 @@ _**Problemas a serem resolvidos:**_
     
 * Gerar o resultado do percentual do valor desejado com o valor da tabela FIPE:
     - Exibir o valor;
-    - Indicar se está abaixo, acima ou na média da tabela FIPE e do mercado.
+    - Indicar se está abaixo, acima ou na média: da tabela FIPE e do mercado.
     
     
 * Preencher os valores inseridos no conteúdo "informações veiculo".
