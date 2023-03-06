@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 100;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulo{
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.conteiner-selecoes{
+    margin: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tipo-veiculo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.marca-veiculo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+.modelo-veiculo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+.ano-veiculo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+#tipoDeVeiculo{
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+#marcaVeiculo{
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px;    
+}
+
+#modeloVeiculo{
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px; 
+}
+
+#anoVeiculo{
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+.conteiner-consulta{
+    margin: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 100px;
+}
+.conteiner-valor{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#campoValorDesejado{
+    margin: 10px;
+    width: 300px;
+    height: 40px;
+}
+
+#btnConsultar{
+    width: 250px;
+    height: 50px;
+    font-size: 25px;
+    border: 0;
+    border-radius: 10px;
+    background-color: rgb(26, 26, 197);
+    color: white;
+}
+
+#btnConsultar:hover{
+    background-color: rgb(30, 30, 218);
+}
+
+.conteiner-informacoes{
+    padding-left: 60px;
+    padding-right: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conj-conteudo-info-valor-mercado{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo-informacoes{
+    width: 600px;
+}
+
+.conteiner-valor-mercado{
+    margin: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.informacao-media-acima-abaixo{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
+.conteudo-porcentagem{
+    text-align: center;
+}
+
+#valorPorcentagem{
+    font-size: 100px;
+}
+
+.informacao-mercado{
+    margin: 5px;
+    width: 100%;
+    height: 70px;
+    border: solid 1px rgb(0, 0, 0);
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
